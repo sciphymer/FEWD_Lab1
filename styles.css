@@ -1,0 +1,36 @@
+/* add your CSS here */
+body{
+  	font-family: Arial;
+}
+img{
+	width:300px;
+   padding-bottom:20px;
+}
+#interesting-fact{
+	font-style: italic;
+}
+
+li>span{
+	font-weight: bold;
+}
+
+li{
+	list-style-type:none;
+  	list-style-position:inside;
+  	margin-left:0px;
+  	padding-left:0px;
+}
+
+#container{
+	border: 2px solid grey;
+  	padding: 1px 10px 10px 10px;
+  	width:304px;
+  	margin:0px;
+}
+
+.animal-info{
+	border: 2px solid grey;
+  	width: 300px;
+  	padding:0px 15px 0px 15px;
+  	box-sizing: border-box;
+}
